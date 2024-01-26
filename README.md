@@ -1,6 +1,6 @@
 # Projeto Cordel
 
-Mini projeto usando o **efeito parallax**.
+Mini projeto utilizando o **efeito parallax**.
 
 ## Stack utilizada
 
