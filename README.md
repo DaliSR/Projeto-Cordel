@@ -14,7 +14,7 @@ https://github.com/gustavoguanabara/
 - Texto criado por Milton Duarte e disponível no [Recanto das Letras](https://www.recantodasletras.com.br/poesias/3186743)
 
 ## 🔗 Links
-:open_file_folder:[Acesso ao projeto]( https://dalilassr.github.io/Projeto-Cordel/)
+:open_file_folder:[Acesso ao projeto]( https://dalisr.github.io/Projeto-Cordel/)
 
 
 ## Licença
